@@ -1,5 +1,5 @@
 # CSIM
-CSIM algorithm implemented in JAVA. More details can be found here:
+CSIM algorithm for GPS trajectory similarity implemented in Java. More details can be found here:
 http://cs.uef.fi/mopsi/routes/grid/
 
 If use, please cite this paper:
